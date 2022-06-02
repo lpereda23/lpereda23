@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Leonardo Pereda</h1>
-<h3 align="center">A passionate data scientists from the United States</h3>
+<h3 align="center">A passionate junior data scientist from the United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lpereda23&label=Profile%20views&color=0e75b6&style=flat" alt="lpereda23" /> </p>
 
-- 🔭 I’m currently working on **Project Pl(ai)list**
+- 🔭 I previously worked on **Project Pl.ai.list**
 
-- 🌱 I’m currently further developing **Data Engineering skills**
-
-- I’m looking to collaborate on **Music related projects**
+- 🌱 I’m currently further developing **Data Science skills**
 
 - 👨‍💻 All of my projects are available at [leonardopereda.com](leonardopereda.com)
-
-- 💬 Ask me about **Docker**
 
 - 📫 How to reach me **leodpereda@outlook.com**
 
 - 📄 Know about my experiences [leonardopereda.com](leonardopereda.com)
 
-- ⚡ Fun fact **I can speak 2.5 languages**
+- ⚡ Fun fact **I really like Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
