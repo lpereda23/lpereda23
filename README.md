@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lpereda23&label=Profile%20views&color=0e75b6&style=flat" alt="lpereda23" /> </p>
 
-- 🔭 I previously worked on **Project Pl.ai.list**
+- 🔭 I previously worked as a data analyst with **The CDC Foundation**
 
-- 🌱 I’m currently further developing **Data Science skills**
+- 🌱 I’m currently further developing my **Data Science skills**
 
-- 👨‍💻 All of my projects are available at [leonardopereda.com](leonardopereda.com)
+- 👨‍💻 All of my projects are available at **[HERE]**([leonardopereda.com](https://www.datascienceportfol.io/lpereda))
 
 - 📫 How to reach me **leodpereda@outlook.com**
 
-- 📄 Know about my experiences [leonardopereda.com](leonardopereda.com)
+- 📄 Know about my experiences **[HERE]**([leonardopereda.com](https://www.datascienceportfol.io/lpereda))
 
-- ⚡ Fun fact **I really like Architecture**
+- ⚡ Fun fact **I am currently learning Dutch 🇳🇱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
