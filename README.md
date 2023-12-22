@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently further developing my **Data Science skills**
 
-- 👨‍💻 All of my projects are available at **[HERE]**([leonardopereda.com](https://www.datascienceportfol.io/lpereda))
+- 👨‍💻 All of my projects are available at ([**[HERE]**](https://www.datascienceportfol.io/lpereda))
 
 - 📫 How to reach me **leodpereda@outlook.com**
 
-- 📄 Know about my experiences **[HERE]**([leonardopereda.com](https://www.datascienceportfol.io/lpereda))
+- 📄 Know about my experiences ([**[HERE]**](https://www.datascienceportfol.io/lpereda))
 
 - ⚡ Fun fact **I am currently learning Dutch 🇳🇱**
 
