@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Leonardo Pereda</h1>
+<h1 align="center">Hi 👋, I'm Leo Pereda</h1>
 <h3 align="center">A passionate junior data scientist from the United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lpereda23&label=Profile%20views&color=0e75b6&style=flat" alt="lpereda23" /> </p>
 
-- 🔭 I previously worked as a data analyst with **The CDC Foundation**
+- 🔭 I previously worked as a data analyst with **The CDC Foundation** and currently with **CT-DPH** as a data consultant
 
-- 🌱 I’m currently further developing my **Data Science skills**
+- 🌱 I’m always further developing my **Data Science skills**
 
 - 👨‍💻 All of my projects are available at ([**[HERE]**](https://www.datascienceportfol.io/lpereda))
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences ([**[HERE]**](https://www.datascienceportfol.io/lpereda))
 
-- ⚡ Fun fact **I am currently learning Dutch 🇳🇱**
+- ⚡ Fun fact **I challenged myself this year and joined a crossfit gym and it has really changed my life! 🇳🇱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
